@@ -1,0 +1,46 @@
+.welcomeBox{
+    border: 1px solid black;
+    background-color: blueviolet;
+
+}
+
+.asyncText{
+    font-size: larger;
+    font-style: italic; 
+}
+.gameName{
+    font-family: Segoe Print;
+     font-size: 78px; 
+     font-style: italic; 
+     font-variant: normal; 
+     font-weight: 100; 
+     line-height: 100px;
+     
+    }
+
+    .button {
+        background-color: #dadd0a;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10px;
+      }
+.button1 {
+        background-color: #0a07ce;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10px;
+      }
